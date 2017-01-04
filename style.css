@@ -1,0 +1,117 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+header {
+  background-image: url("image/image-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  width: 100%;
+  height: 40em;
+}
+
+
+
+#logo-titre img {
+  margin-left: 5em;
+  width: 5em;
+  height: 2em;
+
+}
+
+nav {
+
+
+}
+
+li{
+display: inline-block;
+line-height: 24px;
+outline: none;
+vertical-align: middle;
+
+}
+
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.txt{
+  margin-left: 5em;
+  margin-top: 4em;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.phrase{
+  margin-left: 8em;
+  margin-top: 3em;
+  font-size: 25px;
+}
+
+button {
+  background-color: #F29B34;
+  margin-top: 5em;
+  margin-left: 15em;
+  width: 13em;
+  height: 3em;
+}
+/*END SECTION1*/
+
+
+
+/*section 2*/
+h1 {
+  border-bottom-width: 1px solid grey;
+}
+
+
+
+
+
+/*section3*/
+img{
+
+}
+.portefolio {
+
+}
+
+/*SECTION 3*/
+
+.bloc3 {
+  background-color: #F29B34;
+}
+
+
+
+
+
+
+/*SECTION 4*/
+
+
+
+
+
+
+/*SECTION 5*/
+
+.bloc6{
+  background-image: url("image/image-2.jpg");
+
+
+/*SECTION 6*/
+
+
+}
+
+
+/*SECTION 7*/
